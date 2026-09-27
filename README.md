@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Arlen
 
-<!--
-**qqarlen2025/qqarlen2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie SaaS builder. I make 3D and AI creativity tools that run entirely in your browser.
 
-Here are some ideas to get you started:
+### 🔧 Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Fast3D](https://www.fast3d.org/en)** — free online 3D toolbox: convert GLB/GLTF/OBJ/STL/FBX/PLY, compress heavy models, inspect in a full-featured viewer. 100% client-side.
+- **[3D AI](https://www.3dai.art)** — AI 3D model generator: text or image → GLB, plus the same converter/compressor/viewer toolkit.
+- **[DreamAI](https://dreamai.art)** — free AI image generation.
+- **[Nano Banana Video](https://nanobananavideo.io)** — AI video generation.
+
+### 🌱 Open source
+CLI/SDK releases coming soon — watch this space.
