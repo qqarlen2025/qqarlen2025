@@ -9,5 +9,13 @@ Indie SaaS builder. I make 3D and AI creativity tools that run entirely in your 
 - **[DreamAI](https://dreamai.art)** — free AI image generation.
 - **[Nano Banana Video](https://nanobananavideo.io)** — AI video generation.
 
+### 📝 Guides & comparisons
+
+I write honest comparison guides for the AI 3D space — real testing, no affiliate fluff:
+
+- [Meshy vs Tripo AI](https://www.3dai.art/en/compare/meshy-vs-tripo) — pricing per usable asset, topology quality, where free tiers cut off
+- [Best AI 3D model generators](https://www.3dai.art/en/compare/best-ai-3d-model-generator) — ranked by actual use case (games, printing, products, free)
+- [Free AI 3D model generators](https://www.3dai.art/en/compare/free-ai-3d-model-generator) — the ones that are genuinely free, and the free-tier traps
+
 ### 🌱 Open source
 CLI/SDK releases coming soon — watch this space.
